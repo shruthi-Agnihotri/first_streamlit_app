@@ -6,3 +6,5 @@ streamlit.header('🥣 🥗 🐔 🥑🍞')
 streamlit.text('MILLET')
 streamlit.text('VEGETABLES & FRUITS')
 streamlit.text('CERELS & PULSES ')
+
+import pandas
